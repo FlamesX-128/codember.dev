@@ -16,7 +16,7 @@ My solution of [codember.dev](https://codember.dev/) challenges.
 
 <details>
     <summary>Cowsay</summary>
-    <code> $ ping midudev </code>
+    <code> $ ping midu.dev </code>
 </details>
 
 <details>
