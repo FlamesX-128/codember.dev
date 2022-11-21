@@ -8,41 +8,43 @@ import (
 	"strings"
 )
 
+func AsciiStringToString(s string) (str string, err error) {
+	parse := strings.ReplaceAll(s, " ", "32")
+	bytes := []byte{}
+
+	for i := 0; i < len(parse); i += 3 {
+		var num int
+
+		if num, err = strconv.Atoi(parse[i:(i + 3)]); err != nil {
+
+			return
+		}
+
+		if num > 200 {
+			num, _ = strconv.Atoi(parse[i:(i + 2)])
+			i--
+		}
+
+		bytes = append(bytes, byte(num))
+	}
+
+	return string(bytes), nil
+}
+
 func main() {
 	var fileBytes []byte
 	var err error
 
 	if fileBytes, err = os.ReadFile("encrypted.txt"); err != nil {
-		log.Println(err)
+		log.Panicln(err)
+
 	}
 
-	parse := strings.ReplaceAll(string(fileBytes), " ", "32")
-	bytes := []byte{}
+	if str, err := AsciiStringToString(string(fileBytes)); err == nil {
+		fmt.Println(str)
 
-	i := 0
-	j := 3
-
-	for i < len(parse) {
-		var next int = 3
-		var n int
-
-		if n, err = strconv.Atoi(parse[i:j]); err != nil {
-			log.Panicln(err)
-		}
-
-		if n > 200 {
-			next--
-		}
-
-		if n, err = strconv.Atoi(parse[i : i+next]); err != nil {
-			log.Panicln(err)
-		}
-
-		bytes = append(bytes, byte(n))
-
-		j += next
-		i += next
+		return
 	}
 
-	fmt.Println(string(bytes))
+	log.Panicln(err)
 }
