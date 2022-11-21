@@ -38,8 +38,6 @@ func main() {
 			log.Panicln(err)
 		}
 
-		fmt.Println(string(n))
-
 		bytes = append(bytes, byte(n))
 
 		j += next
