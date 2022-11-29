@@ -46,5 +46,5 @@ My solution of [codember.dev](https://codember.dev/) challenges.
 
 <details>
     <summary>Npm</summary>
-    <p> $ submit bug </p>
+    <code> $ submit bug </code>
 </details>
