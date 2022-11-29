@@ -5,7 +5,7 @@ My solution of [codember.dev](https://codember.dev/) challenges.
 ![codember.dev](https://user-images.githubusercontent.com/78381898/201253554-276086ac-7c28-43d6-a9cc-f2e7d80e4ab2.png)
 
 ## Score
-![score](https://user-images.githubusercontent.com/78381898/202931445-fdd2c62e-d44d-42ba-bd84-309d2849fa8b.png)
+![score](https://user-images.githubusercontent.com/78381898/204632829-7e5d8970-5017-4245-982a-aa67053ee19a.png)
 
 ## Secrets
 
@@ -42,4 +42,9 @@ My solution of [codember.dev](https://codember.dev/) challenges.
 <details>
     <summary>Konami code.</summary>
     <p> Press up, up, down, down, left, right, left, right, B, A </p>
+</details>
+
+<details>
+    <summary>Npm</summary>
+    <p> $ submit bug </p>
 </details>
