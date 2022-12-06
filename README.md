@@ -51,5 +51,6 @@ My solution of [codember.dev](https://codember.dev/) challenges.
 
 <details>
     <summary>The Midu</summary>
+    <p>Only available if you have completed all the challenges.</p>
     <code> $ midu </code>
 </details>
