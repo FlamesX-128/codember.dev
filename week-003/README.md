@@ -1,28 +1,27 @@
-Challenge 3: Zebra of colors
+Challenge 4: Dude, I lost my password
 
 Problem
 
-TMChein is getting ready for the holidays and wants to start decorating the house with Christmas lights.
+A friend bought 5 BitCoins in 2008. The problem is that he had it in a digital wallet... and he doesn't remember the password!
 
-He wants to buy some fancy light but his favorite ones are those that have two colors that alternate. Like a two-color zebra.
+He asked us for help. And he gave us some clues:
 
-He has represented the lights as Arrays where each position is a color. Now, he wants to know which lights have the longest zebra and what the last color of that color sequence is. For example:
+- It's a 5-digit password.
+- The password has the number 5 repeated at least two times.
+- The number to the right is always greater than or equal to the one on the left.
 
-['red', 'blue', 'red', 'blue', 'green'] -> 4, blue
-['green', 'red', 'blue', 'gray'] -> 2, gray
-['blue', 'blue', 'blue', 'blue'] -> 1, blue
-['red', 'green', 'red', 'green', 'red', 'green'] -> 6, green
-['blue', 'red', 'blue', 'red', 'gray'] -> 4, red
-['red', 'red', 'blue', 'red', 'red', 'red', 'green'] -> 3, red
-['red', 'blue', 'red', 'green', 'red', 'green', 'red', 'green'] -> 6, green
+He gave us some examples:
+55678 is correct, it fulfills everything
+12555 is correct, it fulfills everything
+55555 is correct, it fulfills everything
+12345 is incorrect, it does not have the 5 repeated.
+57775 is incorrect, the numbers do not go in increasing order
 
-Keep in mind that he only wants to know the length of when two colors are alternating. Once the alternation of the two colors is broken, it stops counting.
+He says that the password is between the numbers 11098 and 98123. Can we tell him how many numbers fulfill those rules within that range?
 
-Now that you know this, https://codember.dev/colors.txt
-
-Remember that a color zebra is when two colors alternate one after the other. If a color is repeated in the next position or a third color appears, then it stops counting.
-What we want to calculate is the longest color zebra and the last color of that color sequence.
 How to submit the solution
-Use the command "submit" to send your solution. For example:
+Send the solution with the command "submit", and the number of passwords that fulfill the criteria along with the password that is in the index 55 of the list of valid passwords, separated by a hyphen. For example:
 
-$ submit 62@red
+For example, for 87 results and the password 35522 in position 55 it would be:
+
+$ submit 87-35522

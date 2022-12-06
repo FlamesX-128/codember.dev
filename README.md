@@ -5,7 +5,7 @@ My solution of [codember.dev](https://codember.dev/) challenges.
 ![codember.dev](https://user-images.githubusercontent.com/78381898/201253554-276086ac-7c28-43d6-a9cc-f2e7d80e4ab2.png)
 
 ## Score
-![score](https://user-images.githubusercontent.com/78381898/204632829-7e5d8970-5017-4245-982a-aa67053ee19a.png)
+![image](https://user-images.githubusercontent.com/78381898/205979953-1d88a9b1-4250-4876-9ee0-e9f39ca3147c.png)
 
 ## Secrets
 
@@ -47,4 +47,9 @@ My solution of [codember.dev](https://codember.dev/) challenges.
 <details>
     <summary>Npm</summary>
     <code> $ submit bug </code>
+</details>
+
+<details>
+    <summary>The Midu</summary>
+    <code> $ midu </code>
 </details>
