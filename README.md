@@ -2,55 +2,24 @@
 
 My solution of [codember.dev](https://codember.dev/) challenges.
 
-![codember.dev](https://user-images.githubusercontent.com/78381898/201253554-276086ac-7c28-43d6-a9cc-f2e7d80e4ab2.png)
+![codember.dev](https://github.com/FlamesX-128/codember.dev/assets/78381898/dfcd4d3c-6450-469d-9f7e-fe5327a38a1e)
 
 ## Score
-![image](https://user-images.githubusercontent.com/78381898/205979953-1d88a9b1-4250-4876-9ee0-e9f39ca3147c.png)
+![flames-score](https://github.com/FlamesX-128/codember.dev/assets/78381898/996b87d7-56ec-48fd-801b-6d1b71a58875)
 
 ## Secrets
 
 <details>
-    <summary>Corrupt image</summary>
-    <code> $ say elonmusk </code>
-</details>
-
-<details>
-    <summary>Cowsay</summary>
-    <code> $ ping midu.dev </code>
-</details>
-
-<details>
-    <summary>Confetti</summary>
-    <code> $ confetti </code>
-</details>
-
-<details>
-    <summary>Tetris</summary>
-    <code> $ play tetris </code>
-</details>
-
-<details>
-    <summary>Google "roll" easter egg.</summary>
-    <code> $ do a barrel roll </code>
+    <summary>Blurred image</summary>
+    <code> $ submit Rauch </code>
 </details>
 
 <details>
     <summary>Mail</summary>
-    <code> $ submit t8vjh832948fcnal </code>
+    <code> $ submit 2023-12-01 </code>
 </details>
 
 <details>
-    <summary>Konami code.</summary>
-    <p> Press up, up, down, down, left, right, left, right, B, A </p>
-</details>
-
-<details>
-    <summary>Npm</summary>
-    <code> $ submit bug </code>
-</details>
-
-<details>
-    <summary>The Midu</summary>
-    <p>Only available if you have completed all the challenges.</p>
-    <code> $ midu </code>
+    <summary>Konami code</summary>
+    <p> Press UP, UP, DOWN, DOWN, LEFT, RIGHT, LEFT, RIGHT, B, and A </p>
 </details>
