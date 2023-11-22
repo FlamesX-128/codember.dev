@@ -23,3 +23,33 @@ My solution of [codember.dev](https://codember.dev/) challenges.
     <summary>Konami code</summary>
     <p> Press UP, UP, DOWN, DOWN, LEFT, RIGHT, LEFT, RIGHT, B, and A </p>
 </details>
+
+<details>
+    <summary>Mail 2</summary>
+    <code> $ submit HTML </code>
+</details>
+
+<details>
+    <summary>Magic</summary>
+    <code> $ itsmagic </code>
+</details>
+
+<details>
+    <summary>Confetti x9</summary>
+    <code> $ confetti </code>
+</details>
+
+<details>
+    <summary>Do</summary>
+    <code> $ do barrel roll </code>
+</details>
+
+<details>
+    <summary>Mail 3</summary>
+    <code> $ submit majortom </code>
+</details>
+
+<details>
+    <summary>OpenAI, Sam Altman</summary>
+    <code> $ submit altman</code>
+</details>
