@@ -5,7 +5,7 @@ My solution of [codember.dev](https://codember.dev/) challenges.
 ![codember.dev](https://github.com/FlamesX-128/codember.dev/assets/78381898/dfcd4d3c-6450-469d-9f7e-fe5327a38a1e)
 
 ## Score
-![flames-score](https://github.com/FlamesX-128/codember.dev/assets/78381898/996b87d7-56ec-48fd-801b-6d1b71a58875)
+![flames-score](https://github.com/FlamesX-128/codember.dev/assets/78381898/45042208-a792-4d51-9ede-885c3e01fc19)
 
 ## Secrets
 
