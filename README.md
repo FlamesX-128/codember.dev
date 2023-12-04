@@ -5,7 +5,8 @@ My solution of [codember.dev](https://codember.dev/) challenges.
 ![codember.dev](https://github.com/FlamesX-128/codember.dev/assets/78381898/dfcd4d3c-6450-469d-9f7e-fe5327a38a1e)
 
 ## Score
-![flames-score](https://github.com/FlamesX-128/codember.dev/assets/78381898/45042208-a792-4d51-9ede-885c3e01fc19)
+
+![flames-score](https://github.com/FlamesX-128/codember.dev/assets/78381898/cd6d5fd8-0f4c-4490-b3e0-106ea421d6c5)
 
 ## Secrets
 
@@ -52,4 +53,24 @@ My solution of [codember.dev](https://codember.dev/) challenges.
 <details>
     <summary>OpenAI, Sam Altman</summary>
     <code> $ submit altman</code>
+</details>
+
+<details>
+    <summary>Mail 4</summary>
+    <code> $ ping midu.dev </code>
+</details>
+
+<details>
+    <summary>Tetris</summary>
+    <code> $ play tetris </code>
+</details>
+
+<details>
+    <summary>Mail 5</summary>
+    <code> $ submit bug </code>
+</details>
+
+<details>
+    <summary>AdventJS</summary>
+    <code> $ npm install adventjs </code>
 </details>
