@@ -2,6 +2,8 @@
     "recommendations": [
         "ampcpmgp.cognitive-complexity-show",
         "denoland.vscode-deno",
-        "golang.go"
+        "tamasfe.even-better-toml",
+        "golang.go",
+        "rust-lang.rust-analyzer",
     ]
 }
