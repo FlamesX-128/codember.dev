@@ -2,7 +2,7 @@
 
 [Codember](https://codember.dev/) 2022-2024 solutions with secrets.
 
-![codember.dev](https://github.com/user-attachments/assets/1d2284f1-37e8-4b9e-b226-1c7e9adff2af)
+![codember.dev](https://github.com/user-attachments/assets/fc2a4af8-e8b9-46c3-8c6a-b4fc6aab2a15)
 
 ## Secrets
 
@@ -33,6 +33,27 @@
 
 <details>
     <summary>Anonymous</summary>
-    <code> $ sudo e3b0c44298fc1c149afbf4c8996fb </code>
+    <code> $ sudo e3b0c44298fc1c149afbf4c8996fb </code> <br />
     <code> $ userdel anonymous </code>
+</details>
+
+<details>
+    <summary>Invoker of chaos</summary>
+    <code> $ submit :(){ :|:& };: </code>
+</details>
+
+<details>
+    <summary>Unexpected Error</summary>
+    <code> $ submit multiversal_secret </code>
+</details>
+
+<details>
+    <summary>Exemplary admin</summary>
+    <code> $ sudo e3b0c44298fc1c149afbf4c8996fb </code> <br />
+    <code> $ enable ping </code>
+</details>
+
+<details>
+    <summary>Ping Pong</summary>
+    <code> $ ping midu.dev </code>
 </details>
