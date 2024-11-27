@@ -2,7 +2,7 @@
 
 [Codember](https://codember.dev/) 2022-2024 solutions with secrets.
 
-![codember.dev](https://github.com/user-attachments/assets/fc2a4af8-e8b9-46c3-8c6a-b4fc6aab2a15)
+![codember.dev](https://github.com/user-attachments/assets/6ca32a4e-2f31-4a03-9698-91938b6c4c97)
 
 ## Secrets
 
@@ -56,4 +56,24 @@
 <details>
     <summary>Ping Pong</summary>
     <code> $ ping midu.dev </code>
+</details>
+
+<details>
+    <summary>MiduCat</summary>
+    <code> $ submit midugato </code>
+</details>
+
+<details>
+    <summary>Miau</summary>
+    <code> $ submit losmetadatosdelgato </code>
+</details>
+
+<details>
+    <summary>mars.codes</summary>
+    <code> $ submit 5.4S-137.8E </code>
+</details>
+
+<details>
+    <summary> Ωmega</summary>
+    <code> $ twitch </code>
 </details>
